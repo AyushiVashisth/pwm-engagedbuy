@@ -10,8 +10,6 @@ import './App.css';
 // import GetStartedBox from './Components/HomeComponents/GetStartedBox';
 // import Footer from './Components/Footer';
 import AllRoutes from './Components/AllRoutes';
-
-
 function App() {
   return (
     <div className="App">
@@ -29,6 +27,5 @@ function App() {
     </div>
   );
 }
-
 export default App;
 

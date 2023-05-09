@@ -20,18 +20,15 @@
         <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
 </h2>
 <div align="center">
-
         <div align="center">
-                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white  align="
-                        center" alt="html5">
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+                        align="center" alt="html5">
                 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
                         align="center" alt="css3">
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
                         align="center" alt="javascript">
                 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                         align="center" alt="reactjs" />
-                <br />
-                <br />
                 <img src="https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"
                         align="center" alt="chakra-ui" />
         </div>
@@ -47,10 +44,10 @@
                         align="center" alt="npm">
                 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"
                         align="center" alt="vscode" />
-                <br />
-                <br />
         </div>
 </div>
+
+
 <div align="center">
         <h3 align="center">Deployed On:</h3>
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
@@ -66,7 +63,10 @@
 
 - Account creation, login, signup and logout functionality.
 - Sign-up and log-in validations.
-<br />
+
+[![Screenshot-2023-05-09-155106.png](https://i.postimg.cc/fyq34YLC/Screenshot-2023-05-09-155106.png)](https://postimg.cc/2LvjhbnL)
+
+[![Screenshot-2023-05-09-155119.png](https://i.postimg.cc/nznDbFHd/Screenshot-2023-05-09-155119.png)](https://postimg.cc/VSH6Xc0M)
 
 # Languages Used :
 
